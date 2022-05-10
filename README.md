@@ -1,5 +1,21 @@
-# odyssey
+# odyssey-mevn
 
-Odyssey is a travel blog spot web application that enables users to share their fantastic experiences with their vacation, adventure, hike, etc., and which place they want to go to next. It acts like a diary for exploration where they can post their photos and ideas revolving around a certain place.
+> A Vue.js project
 
-For some who have not, or does not travel: Odyssey can inspire, catch their eyes, and hook their interest in going out and appreciating the world and its wonders. 
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
